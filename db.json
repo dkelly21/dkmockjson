@@ -1,4 +1,5 @@
-{ 
+[
+    { 
 
 	"name": "David Kelly",
 	"age": 23,
@@ -8,14 +9,16 @@
         "state": "GA",
         "zipcoode": 30040 
 
-    },
-  
+    }
+},
+{
     "name01": "GetUWired", 
     "address01": {
             "street": "3221 Cooper Mines Road", 
             "city": "Dahlonega", 
             "state": "GA",
             "zipcode": 30533
-    }
+        }
     
-}
+    }
+]
